@@ -134,7 +134,7 @@ hr {
   position: relative;
   color: #fff;
   text-decoration: none;
-  transition: color 0.1s linear;
+  transition: color 0.2s linear;
 }
 .nav_link::after {
   content: "";
@@ -224,7 +224,7 @@ hr {
   color: #fff;
   text-transform: uppercase;
   text-decoration: none;
-  transition: background 0.1s liner, color 0.1s liner;
+  transition: background 0.5s liner, color 0.5s liner;
 }
 
 .btn:hover {
@@ -1103,7 +1103,7 @@ hr {
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
-  transition: background 0.2s linear;
+  transition: background 0.4s linear;
 }
 
 .subscribe_btn:hover {
@@ -1338,6 +1338,9 @@ hr {
   .works_col {
     flex: none;
     width: 50%;
+  }
+  .works_image {
+    width: 100%;
   }
 
   /* Blog */
