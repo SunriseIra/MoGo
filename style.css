@@ -148,7 +148,7 @@ hr {
   top: 100%;
   left: 0;
   z-index: 1;
-  transition: opasity 0.1s linesr;
+  transition: opasity 0.1s linear;
 }
 
 .nav_link:hover {
@@ -224,7 +224,7 @@ hr {
   color: #fff;
   text-transform: uppercase;
   text-decoration: none;
-  transition: background 0.5s liner, color 0.5s liner;
+  transition: backgraund 0.3s linear, color 0.3s linear;
 }
 
 .btn:hover {
@@ -1103,7 +1103,7 @@ hr {
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
-  transition: background 0.4s linear;
+  transition: backgraund 0.2s linear;
 }
 
 .subscribe_btn:hover {
