@@ -1319,14 +1319,13 @@ hr {
     display: block;
   }
 
+  .nav-toggle {
+    display: block;
+  }
   .nav_link {
     display: block;
     margin: 0;
     padding: 8px 20px;
-  }
-
-  .nav-toggle {
-    display: block;
   }
 
   /* Section */
